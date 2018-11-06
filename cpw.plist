@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://192.168.49.50:8080/H54CBC2B8_1031204033.ipa</string>
 				</dict>
-				<dict>
+<!-- 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
@@ -28,18 +28,18 @@
 					<true/>
 					<key>url</key>
 					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
-				</dict>
+				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.cpw.demo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>cpw App download</string>
 			</dict>
 		</dict>
 	</array>
