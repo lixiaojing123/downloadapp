@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://admin.abc.springclan.com/logo.png</string>
+					<string>http://admin.abc.springclan.com/logo1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://admin.abc.springclan.com/logo.png</string>
+					<string>http://admin.abc.springclan.com/logo1.png</string>
 				</dict> 
 			</array>
 			<key>metadata</key>
