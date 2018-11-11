@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://admin.abc.springclan.com/H54CBC2B8_1111121000.ipa</string>
 				</dict>
-<!-- 				<dict>
+ 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
@@ -28,7 +28,7 @@
 					<true/>
 					<key>url</key>
 					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
-				</dict> -->
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
