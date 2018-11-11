@@ -13,13 +13,13 @@
 					<key>url</key>
 					<string>http://admin.abc.springclan.com/H54CBC2B8_1111121000.ipa</string>
 				</dict>
-<!--  				<dict>
+  				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://admin.abc.springclan.com/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,8 +27,8 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
-				</dict> -->
+					<string>http://admin.abc.springclan.com/logo.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
