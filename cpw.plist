@@ -11,9 +11,9 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://admin.abc.springclan.com/H54CBC2B8_1111163755.ipa</string>
+					<string>http://47.99.178.20/H54CBC2B8_1111163755.ipa</string>
 				</dict>
-  				<dict>
+<!--   				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
@@ -28,7 +28,7 @@
 					<true/>
 					<key>url</key>
 					<string>http://admin.abc.springclan.com/logo1.png</string>
-				</dict> 
+				</dict>  -->
 			</array>
 			<key>metadata</key>
 			<dict>
