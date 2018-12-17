@@ -34,8 +34,6 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.app.cpw</string>
-				<key>LSRequiresIPhoneOS</key>
-				<BOOL>YES</BOOL>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
