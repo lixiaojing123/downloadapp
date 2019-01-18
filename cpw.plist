@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://admin.abc.caizhan99.com/H54CBC2B8_0116131037.ipa</string>
+					<string>http://admin.abc.caizhan99.com/caizhan99_ios.ipa</string>
 				</dict>
   				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://admin.abc.springclan.com/logo.png</string>
+					<string>http://admin.abc.caizhan99.com/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://admin.abc.springclan.com/logo.png</string>
+					<string>http://admin.abc.caizhan99.com/logo.png</string>
 				</dict> 
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.app.cpw</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
